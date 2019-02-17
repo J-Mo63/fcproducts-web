@@ -34,6 +34,9 @@
     color: #56993E !important;
     font-family:"Times New Roman", Times, serif; 
 }
+p {
+    font-size: 18px;
+}
 
 
 
@@ -59,4 +62,7 @@
 .table-custom tbody tr td {
     padding: 0px;
     border-top: none !important;
+}
+.italic {
+    font-style: italic;
 }
