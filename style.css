@@ -45,3 +45,18 @@
 .green-border {
     border-color: #60ab45 !important;
 }
+
+
+.table-custom {
+    color: #f2ed63 !important;
+}
+
+.table-custom tbody tr th {
+    padding: 0px;
+    border-top: none !important;
+}
+
+.table-custom tbody tr td {
+    padding: 0px;
+    border-top: none !important;
+}
