@@ -1,0 +1,29 @@
+/* Colour Styles */
+
+.bg-yellow {
+    background-color: #f2ed63;
+}
+.bg-green {
+    background-color: #60ab45;
+}
+
+.txt-yellow {
+    color: #f2ed63 !important;
+}
+
+
+/* Font Styles */
+
+.font-header {
+    font-family:"Times New Roman", Times, serif; 
+}
+
+.font-body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+
+.no-border {
+    border: none !important;
+}
