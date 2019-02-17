@@ -18,9 +18,19 @@
     font-family:"Times New Roman", Times, serif; 
 }
 
-.font-body {
-    font-family:Arial, Helvetica, sans-serif;
-    font-style: italic;
+
+/* Global Styles */
+.link a {
+    color: #f2ed63 !important;
+    text-decoration: underline !important;
+}
+.link a:hover {
+    text-decoration: none !important;
+}
+.btn-fcp {
+    background-color: #f2ed63 !important;
+    color: #56993E !important;
+    font-family:"Times New Roman", Times, serif; 
 }
 
 
