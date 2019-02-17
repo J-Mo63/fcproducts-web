@@ -36,6 +36,12 @@
 }
 
 
-.no-border {
-    border: none !important;
+
+
+.logo {
+    width: 50%;
+}
+
+.green-border {
+    border-color: #60ab45 !important;
 }
