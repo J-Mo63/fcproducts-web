@@ -67,3 +67,7 @@ p {
 .italic {
     font-style: italic;
 }
+
+.nav-link {
+    font-size: 18px;
+}
