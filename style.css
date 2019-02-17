@@ -6,7 +6,9 @@
 .bg-green {
     background-color: #60ab45;
 }
-
+.bg-green-dark {
+    background-color: #56993E !important;
+}
 .txt-yellow {
     color: #f2ed63 !important;
 }
